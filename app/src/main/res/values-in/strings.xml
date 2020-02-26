@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film Sub3</string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_tvshow">Acara TV</string>
+    <string name="name">Nama</string>
+    <string name="overview">Gambaran</string>
+    <string name="title_genre">Aliran</string>
+    <string name="title_overview">Gambaran</string>
+    <string name="title_release">Tanggal Rilis</string>
+    <string name="img_poster">Poster</string>
+    <string name="img_poster_film">Poster Film</string>
+    <string name="menu_change_lang">Ubah Bahasa</string>
+    <string name="lang_en">English</string>
+    <string name="lang_in">Bahasa Indonesia</string>
+    <string name="close">Tutup</string>
+    <string name="choose">Pilih</string>
+    <string name="tv_release">16 Februari 2020</string>
+    <string name="tv_name">Judul Film</string>
+    <string name="tv_genre">Aliran Film</string>
+    <string name="tv_overview">Gambaran Film: anu nya anu itu anu</string>
+</resources>
